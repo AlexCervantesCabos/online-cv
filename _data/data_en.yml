@@ -1,10 +1,11 @@
 sidebar:
-  about: False # Lo ponemos en False si no has arreglado el error del about.html
+  about: True
   education: True
   
   name: Alex Cervantes Cabós
   tagline: Mathematics & Computer Engineering Student - UB
-  avatar: foto.JPG
+  avatar: profile.jpg
+
 
   email: alexcervantescabos@gmail.com
   phone: "+34 622 08 26 66"

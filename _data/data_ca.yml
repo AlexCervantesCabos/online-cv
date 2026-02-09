@@ -1,10 +1,10 @@
 sidebar:
-  about: False
+  about: True
   education: True
   
   name: Alex Cervantes Cabós
   tagline: Estudiant de Matemàtiques i Enginyeria Informàtica - UB
-  avatar: foto.JPG
+  avatar: profile.jpg
 
   email: alexcervantescabos@gmail.com
   phone: 622 08 26 66
