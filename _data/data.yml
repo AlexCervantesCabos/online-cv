@@ -4,16 +4,16 @@ sidebar:
   
   # Información de Perfil
   name: Alex Cervantes Cabós
-  tagline: Estudiante de Matemáticas e Ingeniería Informática-UB
-  avatar: foto.JPG  # Asegúrate de subir este archivo a la carpeta de imágenes
+  tagline: Estudiante de Matemáticas e Ingeniería Informática - UB
+  avatar: profile.jpg  # Asegúrate de subir este archivo a la carpeta de imágenes
 
   # Enlaces de la barra lateral
   email: alexcervantescabos@gmail.com
-  phone: 622 08 26 66
+  phone: +34 622 08 26 66
   location: Badalona, España
   address: Carretera Antiga de València, 35
   linkedin: alex-cervantes-cabós-059708249
-  # github: tu_usuario_github # Puedes añadirlo si quieres
+  github: AlexCervantesCabos # Puedes añadirlo si quieres
 
   languages:
     - idiom: English
@@ -70,8 +70,6 @@ skills:
     - name: React / TS / JS
       level: 70%
 
-# Nota: Verifica si tu plantilla soporta una sección 'certifications' o 'projects' en data.yml.
-# Si no, podrías añadirlos a la sección 'interests' o crear una sección personalizada en el HTML.
 certifications:
   title: Certificados
   list:
