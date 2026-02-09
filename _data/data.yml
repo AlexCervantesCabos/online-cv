@@ -53,7 +53,12 @@ experiences:
       details: |
         Prácticas extracurriculares.
         He podido realizar una gran introducción al front-end, trabajando con React y TypeScript, y un desarrollo más profundo en el back-end, trabajando con JavaScript, Python y diferentes herramientas para la abstracción de datos.
-
+    - role: Desarrollador full-stack
+      time: 06 2025 -- Actualidad
+      company: Index, Barcelona
+      details: |
+        Prácticas extracurriculares.
+        Index es una startup de Barcelona la cual me ha brindado la oportunidad de trabajar en un proyecto real, con un equipo de profesionales, y con una gran libertad para aprender y desarrollar mis habilidades. He podido trabajar con React, TypeScript, JavaScript, Python, SQL y diferentes herramientas relacionadas con Python. Además, he podido desarrollar mis habilidades de trabajo en equipo, comunicación y gestión de proyectos, lo cual me ha permitido crecer como profesional y como persona. He descubierto direferentes arquitecturas de software, tanto para front-end como para back-end, y he podido aplicar mis conocimientos de matemáticas para resolver problemas complejos y optimizar el rendimiento de las aplicaciones. 
 skills:
   title: Habilidades & Herramientas
   toolset:
@@ -69,10 +74,23 @@ skills:
       level: 75%
     - name: React / TS / JS
       level: 70%
+    - name: SQL
+      level: 70%
 
 certifications:
   title: Certificados
   list:
-    - item: Certificado B2 en Inglés (EOI) (09/2020)
-    - item: Permiso B de conducción (DGT) (06/2022)
-    - item: Reanimación Cardio Pulmonar (CCR) (04/2018)
+    - name: Certificado B2 en Inglés
+      organization: EOI
+      start: 09/2020
+      # end: (opcional, si quisieras poner fecha fin)
+      # credentialid: (opcional)
+      # credentialurl: (opcional)
+
+    - name: Permiso B de conducción
+      organization: DGT
+      start: 06/2022
+
+    - name: Reanimación Cardio Pulmonar
+      organization: CCR
+      start: 04/2018
