@@ -1,10 +1,10 @@
 <!-- Analytics -->
 {% assign source_data = site.data[page.data_file] | default: site.data.data %}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ source_data.analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.analytics }}');
+  gtag('config', '{{ source_data.analytics }}');
 </script>

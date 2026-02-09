@@ -1,5 +1,6 @@
 {% assign source_data = site.data[page.data_file] | default: site.data.data %}
-{% assign skills = source_data.skills %} {% if skills %}
+{% assign skills = source_data.skills %}
+{% if skills %}
 <section class="skills-section section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
