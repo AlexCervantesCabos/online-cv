@@ -2,56 +2,63 @@ sidebar:
   about: True
   education: True
   
+  # Profile Information
   name: Alex Cervantes Cabós
-  tagline: Mathematics & Computer Engineering Student - UB
+  tagline: Mathematics and Computer Science Engineering Student - UB
   avatar: profile.jpg
 
-
+  # Sidebar Links
   email: alexcervantescabos@gmail.com
-  phone: "+34 622 08 26 66"
+  phone: +34 622 08 26 66
   location: Badalona, Spain
   address: Carretera Antiga de València, 35
   linkedin: alex-cervantes-cabós-059708249
+  github: AlexCervantesCabos
 
   languages:
     - idiom: English
-      level: 70%
+      level: 70% 
     - idiom: Spanish
-      level: 100%
+      level: 100% 
     - idiom: Catalan
-      level: 100%
+      level: 100% 
 
   interests:
     - item: Versatile
-    - item: Hardworking
+    - item: Hard-working
     - item: Motivated
     - item: Eager to learn
 
 career-profile:
   title: Profile
   summary: |
-    As a mathematics student, I have developed an abstract way of thinking, as well as a way to approach and face different problems from different perspectives using various tools. Furthermore, my computer science knowledge is becoming increasingly advanced, with expertise in high-level languages such as Java, Python, C, C++, R, HTML, JS, and CSS. The fact that I have used so many languages strengthens me as a programmer, facilitating the learning of other languages and skills.
+    As a mathematics student, I have developed an abstract way of thinking, as well as an approach to tackling different problems from various perspectives and with different tools. Furthermore, my knowledge in computer science is increasingly advanced, with proficiency in high-level languages such as Java, Python, C, C++, R, HTML, JS, TS, CSS, and SQL. Having worked with such a variety of languages has seasoned me as a programmer, facilitating the learning of new languages and concepts.
 
 education:
   title: Education
   info:
     - degree: Bachelor's Degree in Mathematics
-      university: Universitat de Barcelona
-      time: Sept 2021 -- Jan 2027
-    - degree: Bachelor's Degree in Computer Engineering
-      university: Universitat de Barcelona
-      time: Sept 2021 -- Jan 2027
+      university: University of Barcelona
+      time: Sept 2021 -- January 2027
+    - degree: Bachelor's Degree in Computer Science Engineering
+      university: University of Barcelona
+      time: Sept 2021 -- January 2027
 
 experiences:
   title: Experience
   info:
-    - role: Data Analyst
+    - role: Data Analysis
       time: 07 2023 -- 09 2023
       company: Bestiario, Barcelona
       details: |
-        Extracurricular internship.
-        I was able to get a great introduction to front-end development, working with React and TypeScript, and a deeper development in back-end, working with JavaScript, Python, and different data abstraction tools.
-
+        Extracurricular Internship.
+        I completed a comprehensive introduction to front-end development, working with React and TypeScript, and pursued a deeper development in back-end, working with JavaScript, Python, and various tools for data abstraction.
+    - role: Full-stack Developer
+      time: 06 2025 -- Present
+      company: Index, Barcelona
+      details: |
+        Extracurricular Internship.
+        Index is a Barcelona-based startup that provided me the opportunity to work on a real-world project within a professional team, with significant freedom to learn and develop my skills. I have worked with React, TypeScript, JavaScript, Python, SQL, and various Python-related tools. Additionally, I have developed teamwork, communication, and project management skills, which have allowed me to grow both professionally and personally. I have explored different software architectures for both front-end and back-end, applying my mathematical knowledge to solve complex problems and optimize application performance.
 skills:
   title: Skills & Tools
   toolset:
@@ -67,18 +74,18 @@ skills:
       level: 75%
     - name: React / TS / JS
       level: 70%
+    - name: SQL
+      level: 70%
 
 certifications:
   title: Certifications
   list:
-    - name: B2 English Certificate
+    - name: English B2 Certificate
       organization: EOI
       start: 09/2020
-
-    - name: Driving License B
+    - name: Driving License (Category B)
       organization: DGT
       start: 06/2022
-
-    - name: Cardiopulmonary Resuscitation
+    - name: Cardiopulmonary Resuscitation (CPR)
       organization: CCR
       start: 04/2018

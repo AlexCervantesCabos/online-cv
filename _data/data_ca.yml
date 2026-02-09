@@ -2,23 +2,26 @@ sidebar:
   about: True
   education: True
   
+  # Informació de Perfil
   name: Alex Cervantes Cabós
   tagline: Estudiant de Matemàtiques i Enginyeria Informàtica - UB
   avatar: profile.jpg
 
+  # Enllaços de la barra lateral
   email: alexcervantescabos@gmail.com
-  phone: 622 08 26 66
+  phone: +34 622 08 26 66
   location: Badalona, Espanya
   address: Carretera Antiga de València, 35
   linkedin: alex-cervantes-cabós-059708249
+  github: AlexCervantesCabos
 
   languages:
     - idiom: Anglès
-      level: 70%
+      level: 70% 
     - idiom: Castellà
-      level: 100%
+      level: 100% 
     - idiom: Català
-      level: 100%
+      level: 100% 
 
   interests:
     - item: Polivalent
@@ -29,7 +32,7 @@ sidebar:
 career-profile:
   title: Perfil
   summary: |
-    Com a estudiant de matemàtiques he desenvolupat una forma abstracta de pensament, així com una manera d'abordar i afrontar diferents problemes, des de diferents perspectives i amb diferents eines. A més, els meus coneixements en informàtica són cada vegada més avançats, tenint domini de llenguatges d'alt nivell com Java, Python, C, C++, R, HTML, JS i CSS. El fet d'haver utilitzat tants llenguatges em curteix com a programador, facilitant l'aprenentatge d'altres llenguatges i coneixements.
+    Com a estudiant de matemàtiques he desenvolupat una forma abstracta de pensament, així com una manera d'abordar i afrontar diferents problemes, des de diverses perspectives i amb diferents eines. A més, els meus coneixements en informàtica són cada vegada més avançats, tenint coneixements en llenguatges d'alt nivell com Java, Python, C, C++, R, HTML, JS, TS, CSS i SQL. El fet d'haver utilitzat tants llenguatges em forma com a programador, facilitant l'aprenentatge d'altres llenguatges i coneixements.
 
 education:
   title: Educació
@@ -50,7 +53,12 @@ experiences:
       details: |
         Pràctiques extracurriculars.
         He pogut realitzar una gran introducció al front-end, treballant amb React i TypeScript, i un desenvolupament més profund en el back-end, treballant amb JavaScript, Python i diferents eines per a l'abstracció de dades.
-
+    - role: Desenvolupador full-stack
+      time: 06 2025 -- Actualitat
+      company: Index, Barcelona
+      details: |
+        Pràctiques extracurriculars.
+        Index és una startup de Barcelona la qual m'ha brindat l'oportunitat de treballar en un projecte real, amb un equip de professionals, i amb una gran llibertat per aprendre i desenvolupar les meves habilitats. He pogut treballar amb React, TypeScript, JavaScript, Python, SQL i diferents eines relacionades amb Python. A més, he pogut desenvolupar les meves habilitats de treball en equip, comunicació i gestió de projectes, la qual cosa m'ha permès créixer com a professional i com a persona. He descobert diferents arquitectures de programari, tant per a front-end com per a back-end, i he pogut aplicar els meus coneixements de matemàtiques per resoldre problemes complexos i optimitzar el rendiment de les aplicacions. 
 skills:
   title: Habilitats i Eines
   toolset:
@@ -58,13 +66,15 @@ skills:
       level: 90%
     - name: Algorismes
       level: 85%
-    - name: Anàlisi abstracte
+    - name: Anàlisi abstracta
       level: 85%
     - name: Prompt engineering
       level: 80%
     - name: Java / C / C++
       level: 75%
     - name: React / TS / JS
+      level: 70%
+    - name: SQL
       level: 70%
 
 certifications:
@@ -73,11 +83,9 @@ certifications:
     - name: Certificat B2 en Anglès
       organization: EOI
       start: 09/2020
-
-    - name: Permís B de conducció
+    - name: Permís B de conduir
       organization: DGT
       start: 06/2022
-
-    - name: Reanimació Cardiopulmonar
+    - name: Reanimació Cardio Pulmonar
       organization: CCR
       start: 04/2018

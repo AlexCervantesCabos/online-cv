@@ -2,12 +2,10 @@ sidebar:
   about: True
   education: True
   
-  # Información de Perfil
   name: Alex Cervantes Cabós
   tagline: Estudiante de Matemáticas e Ingeniería Informática - UB
   avatar: profile.jpg  # Asegúrate de subir este archivo a la carpeta de imágenes
 
-  # Enlaces de la barra lateral
   email: alexcervantescabos@gmail.com
   phone: +34 622 08 26 66
   location: Badalona, España
@@ -83,9 +81,6 @@ certifications:
     - name: Certificado B2 en Inglés
       organization: EOI
       start: 09/2020
-      # end: (opcional, si quisieras poner fecha fin)
-      # credentialid: (opcional)
-      # credentialurl: (opcional)
 
     - name: Permiso B de conducción
       organization: DGT
