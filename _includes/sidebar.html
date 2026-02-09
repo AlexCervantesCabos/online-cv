@@ -1,7 +1,14 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign source_data = site.data[page.data_file] | default: site.data.data %}
+{% assign sidebar = source_data.sidebar %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
+
+    <div class="languages-container" style="text-align: center; margin-top: 15px;">
+    <a href="{{ '/' | relative_url }}" class="lang-btn" style="margin: 0 5px; text-decoration: none;">🇪🇸 ES</a>
+    <a href="{{ '/ca/' | relative_url }}" class="lang-btn" style="margin: 0 5px; text-decoration: none;">cat CA</a>
+    <a href="{{ '/en/' | relative_url }}" class="lang-btn" style="margin: 0 5px; text-decoration: none;">🇬🇧 EN</a>
+    </div>
 
     {% if sidebar.avatar %}
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />

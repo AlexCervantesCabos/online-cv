@@ -1,0 +1,83 @@
+sidebar:
+  about: False
+  education: True
+  
+  name: Alex Cervantes Cabós
+  tagline: Estudiant de Matemàtiques i Enginyeria Informàtica - UB
+  avatar: foto.JPG
+
+  email: alexcervantescabos@gmail.com
+  phone: 622 08 26 66
+  location: Badalona, Espanya
+  address: Carretera Antiga de València, 35
+  linkedin: alex-cervantes-cabós-059708249
+
+  languages:
+    - idiom: Anglès
+      level: 70%
+    - idiom: Castellà
+      level: 100%
+    - idiom: Català
+      level: 100%
+
+  interests:
+    - item: Polivalent
+    - item: Treballador
+    - item: Motivat
+    - item: Ganes d'aprendre
+
+career-profile:
+  title: Perfil
+  summary: |
+    Com a estudiant de matemàtiques he desenvolupat una forma abstracta de pensament, així com una manera d'abordar i afrontar diferents problemes, des de diferents perspectives i amb diferents eines. A més, els meus coneixements en informàtica són cada vegada més avançats, tenint domini de llenguatges d'alt nivell com Java, Python, C, C++, R, HTML, JS i CSS. El fet d'haver utilitzat tants llenguatges em curteix com a programador, facilitant l'aprenentatge d'altres llenguatges i coneixements.
+
+education:
+  title: Educació
+  info:
+    - degree: Grau en Matemàtiques
+      university: Universitat de Barcelona
+      time: Set 2021 -- Gener 2027
+    - degree: Grau en Enginyeria Informàtica
+      university: Universitat de Barcelona
+      time: Set 2021 -- Gener 2027
+
+experiences:
+  title: Experiència
+  info:
+    - role: Anàlisi de dades
+      time: 07 2023 -- 09 2023
+      company: Bestiario, Barcelona
+      details: |
+        Pràctiques extracurriculars.
+        He pogut realitzar una gran introducció al front-end, treballant amb React i TypeScript, i un desenvolupament més profund en el back-end, treballant amb JavaScript, Python i diferents eines per a l'abstracció de dades.
+
+skills:
+  title: Habilitats i Eines
+  toolset:
+    - name: Python
+      level: 90%
+    - name: Algorismes
+      level: 85%
+    - name: Anàlisi abstracte
+      level: 85%
+    - name: Prompt engineering
+      level: 80%
+    - name: Java / C / C++
+      level: 75%
+    - name: React / TS / JS
+      level: 70%
+
+certifications:
+  title: Certificats
+  list:
+    - name: Certificat B2 en Anglès
+      organization: EOI
+      start: 09/2020
+
+    - name: Permís B de conducció
+      organization: DGT
+      start: 06/2022
+
+    - name: Reanimació Cardiopulmonar
+      organization: CCR
+      start: 04/2018

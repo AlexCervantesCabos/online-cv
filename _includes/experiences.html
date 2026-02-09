@@ -1,3 +1,4 @@
+{% assign source_data = site.data[page.data_file] | default: site.data.data %}
 {% assign experiences = site.data.data.experiences %}
 {% if experiences %}
 <section class="section experiences-section">

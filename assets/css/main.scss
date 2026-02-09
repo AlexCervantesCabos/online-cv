@@ -4,6 +4,19 @@
 
 @charset "utf-8";
 
+.lang-btn {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #545e69; /* Ajusta a tu color de texto */
+    font-size: 14px;
+}
+
+.lang-btn:hover {
+    background-color: #f5f5f5;
+    color: #333;
+}
 
 // define variable with front matter
 {% if site.data.data.sidebar.position == 'left' %}

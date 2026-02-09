@@ -1,4 +1,5 @@
 <!-- Analytics -->
+{% assign source_data = site.data[page.data_file] | default: site.data.data %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
